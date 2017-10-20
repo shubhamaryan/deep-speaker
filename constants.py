@@ -9,3 +9,4 @@ SAMPLE_RATE = 100
 TRUNCATE_SOUND_FIRST_SECONDS = 1
 
 CHECKPOINT_FOLDER = 'checkpoints/'
+# what are the values of above 3 variables used in the experiment? Please modify.
